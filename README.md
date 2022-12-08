@@ -16,7 +16,7 @@
     </table>
 </div>
 
-> ## Watch Our Neurons a lot closer
+> ### Watch Our Neurons a lot closer
 ---
 
 
@@ -41,9 +41,17 @@
 
 
 #### Installation
-
+| Command | Description |
+| --- | --- |
+| Anaconda |  https://www.anaconda.com/products/distribution |
+| Jupyter Notebook| pip install jupyterlab |
+ 
 
 #### API Reference
+
+```javascript
+const neuralReader = "I...SEEeee..YOU";
+```
 
 ## References
 [Back To The Top](docs/back-to-top)
