@@ -1,5 +1,10 @@
 # Neuron-Reader
 
+
+## UML Design
+![UML-1](https://user-images.githubusercontent.com/83618937/206566357-9a9c7d67-0309-45ae-9900-ba2a2a355a39.png)
+
+
 <div id="image-table">
     <table>
 	    <tr>
